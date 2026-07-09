@@ -20,33 +20,51 @@ I'm a final-year CS undergrad with a passion for building end-to-end ML systems 
 
 ## Featured Projects
 
-**Visual Memory Lane** – Full-Stack Passive Desk Monitoring System  
-Production-grade ML application for capturing and searching desktop activity with conversational AI.  
-Tech: YOLOv8/YOLO11 + DeepSORT | CLIP | FastAPI | PostgreSQL | React Native | Groq LLaMA  
-Highlights: Multi-camera support, vector embeddings, conversational memory interface, end-to-end pipeline
+### **Visual Memory Lane** · Full-Stack Passive Desktop Monitoring System &nbsp; [🔗 Repository](https://github.com/SuyashSoni10/VisualMemoryLane)
+Production-grade ML application for capturing, indexing, and searching desktop activity using conversational AI.
 
-**ISRO Road Network Segmentation** – Satellite Imagery Analysis  
-Semantic segmentation of road networks from Sentinel-2 imagery using iterative model refinement.  
-Tech: UNet++ with scSE | PyTorch | CUDA optimization | Kaggle  
-Results: DeepLabV3+ (F1=0.42) → UNet++ (F1=0.524, IoU=0.356) | Solved CUDA OOM, GPU memory optimization
+**Tech Stack:** YOLO11 · DeepSORT · CLIP · FastAPI · PostgreSQL · React Native · Groq LLaMA  
+**Highlights:** Multi-camera support · Vector embeddings · Conversational memory interface · End-to-end ML pipeline
 
-**Kaggle Traffic Demand Prediction** – Ensemble ML Pipeline  
-Multi-phase time-series forecasting with automated hyperparameter tuning.  
-Tech: LightGBM | CatBoost | XGBoost | Optuna | GPU acceleration  
-Result: OOF R² = 95.05% | GPU-accelerated boosting with scipy ensemble optimization
+---
 
-**LedgerApp** – Android Billing System  
-Native Android application for retail shopkeepers with accessibility-first design.  
-Tech: Kotlin | Room Database | MVVM | Jetpack  
-Features: Offline-first transaction logging, large fonts, simple navigation | Resolved Gradle/AGP 9.2.1 compatibility
+### **ISRO Road Network Segmentation** · Satellite Imagery Analysis &nbsp; [🔗 Repository](https://github.com/SuyashSoni10/Road-Network-Extraction)
+Semantic segmentation of road networks from Sentinel-2 satellite imagery through iterative model refinement.
 
-**OCR & Document Processing Tool** – Vision API Integration  
-Text extraction from images and PDFs with automatic format selection.  
-Tech: Groq Vision API | Python | Hotkey-driven Windows 11 assistant with clipboard integration
+**Tech Stack:** UNet++ (scSE) · PyTorch · CUDA · Kaggle  
+**Results:** Improved F1 score from **0.420 → 0.524** and IoU to **0.356** · Resolved CUDA OOM issues through GPU memory optimization
 
-**BugTriaging-with-AI** – Automated Bug Classification  
-Machine learning approach to automatic bug triaging and categorization.  
-Tech: Python | Classification algorithms | Reduces manual triage overhead
+---
+
+### **Traffic Demand Prediction** · Kaggle Competition &nbsp; [🔗 Repository](https://github.com/SuyashSoni10/Road-Network-Extraction)
+Multi-stage time-series forecasting pipeline with automated hyperparameter optimization and ensemble learning.
+
+**Tech Stack:** LightGBM · CatBoost · XGBoost · Optuna · GPU Acceleration  
+**Results:** **95.05% OOF R²** · GPU-accelerated boosting with SciPy-based ensemble optimization
+
+---
+
+### **LedgerApp** · Native Android Billing System
+Offline-first Android application designed for retail shopkeepers with an accessibility-focused user experience.
+
+**Tech Stack:** Kotlin · Room Database · MVVM · Jetpack  
+**Features:** Offline transaction logging · Large-font UI · Simplified navigation · Resolved Gradle/AGP 9.2.1 compatibility
+
+---
+
+### **OCR & Document Processing Tool** · Vision API Integration
+Desktop automation tool for extracting text from images and PDFs with intelligent format selection.
+
+**Tech Stack:** Groq Vision API · Python · Windows Automation  
+**Features:** Hotkey-driven workflow · Clipboard integration · Automatic document processing
+
+---
+
+### **BugTriaging-with-AI** · Intelligent Bug Classification
+Machine learning system for automated bug classification and software issue triaging.
+
+**Tech Stack:** Python · Machine Learning · Classification Algorithms  
+**Impact:** Reduces manual triage effort by automatically categorizing software bugs
 
 ---
 
@@ -75,35 +93,91 @@ SDE Track: Reframing skill levels, adding impact metrics to internship work, com
 
 ## Tech Stack
 
-**Machine Learning & Data Science**  
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-00CCFF?style=flat&logoColor=white)
-![LightGBM](https://img.shields.io/badge/LightGBM-339933?style=flat&logoColor=white)
-![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat&logo=nvidia&logoColor=white)
-![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37726?style=flat&logo=jupyter&logoColor=white)
+### Machine Learning & AI
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-0066CC?style=for-the-badge)
+![LightGBM](https://img.shields.io/badge/LightGBM-339933?style=for-the-badge)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 
-**Backend & Databases**  
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+### Computer Vision
+![YOLO11](https://img.shields.io/badge/YOLO11-111111?style=for-the-badge)
+![YOLOS](https://img.shields.io/badge/YOLOS-0F62FE?style=for-the-badge)
+![YOLO--World](https://img.shields.io/badge/YOLO--World-7B42F6?style=for-the-badge)
+![DeepSORT](https://img.shields.io/badge/DeepSORT-009688?style=for-the-badge)
+![CLIP](https://img.shields.io/badge/CLIP-FF6B6B?style=for-the-badge)
+![EfficientNet](https://img.shields.io/badge/EfficientNet-2E8B57?style=for-the-badge)
+![DeepLabV3+-FF9800](https://img.shields.io/badge/DeepLabV3+-FF9800?style=for-the-badge)
 
-**Mobile & Native**  
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
-![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=flat&logo=react&logoColor=black)
+### LLM & Generative AI
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge)
+![Groq](https://img.shields.io/badge/Groq-000000?style=for-the-badge&logo=groq&logoColor=white)
+![LLAMA 3.1](https://img.shields.io/badge/Llama_3.1-0467DF?style=for-the-badge)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-6E57E0?style=for-the-badge)
+![LLM APIs](https://img.shields.io/badge/LLM_API_Integration-4B8BBE?style=for-the-badge)
 
-**DevOps & Tools**  
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apache-maven&logoColor=white)
-![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat&logo=gradle&logoColor=white)
-![JUnit](https://img.shields.io/badge/JUnit-25A162?style=flat&logo=junit5&logoColor=white)
+### Backend & Databases
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+### Programming Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+### Data Science & Analytics
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37726?style=for-the-badge&logo=jupyter&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
+
+### Mobile Development
+
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+
+### Developer Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
