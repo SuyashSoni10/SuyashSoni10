@@ -123,8 +123,9 @@ SDE Track: Reframing skill levels, adding impact metrics to internship work, com
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=SuyashSoni10&theme=github-dark&hide_border=true" height="170"/>
+  <img src="https://streak-stats.demolab.com/?user=SuyashSoni10&theme=github-dark&hide_border=true" height="170"/>
 </p>
+
 ---
 
 ## Tech Stack
