@@ -36,31 +36,34 @@ Semantic segmentation of road networks from Sentinel-2 satellite imagery through
 
 ---
 
-### **Traffic Demand Prediction** · Kaggle Competition &nbsp; [🔗 Repository](https://github.com/SuyashSoni10/Road-Network-Extraction)
-Multi-stage time-series forecasting pipeline with automated hyperparameter optimization and ensemble learning.
+### **Mail-Master** · AI-Powered Email Triage & Calendar Intelligence &nbsp; [🔗 Repository](https://github.com/SuyashSoni10/Mail-Master)
 
-**Tech Stack:** LightGBM · CatBoost · XGBoost · Optuna · GPU Acceleration  
-**Results:** **95.05% OOF R²** · GPU-accelerated boosting with SciPy-based ensemble optimization
+Android application that connects to multiple Gmail accounts, scans unread emails in the background via the Gmail API, and uses an LLM to extract action items, deadlines, and urgency levels so you never miss a milestone.
 
----
-
-### **LedgerApp** · Native Android Billing System
-Offline-first Android application designed for retail shopkeepers with an accessibility-focused user experience.
-
-**Tech Stack:** Kotlin · Room Database · MVVM · Jetpack  
-**Features:** Offline transaction logging · Large-font UI · Simplified navigation · Resolved Gradle/AGP 9.2.1 compatibility
+**Tech Stack:** Kotlin · Jetpack Compose (Material 3) · Room · WorkManager · Groq Cloud (Llama 3.3 70B) · Gmail API · OAuth 2.0  
+**Features:** Multi-account monitoring · Urgency-based notifications (HIGH/MEDIUM/LOW channels) · AI-extracted checklists & 60-word summaries · 7-day handled event auto-cleanup · Glassmorphic dynamic theme engine
 
 ---
 
-### **OCR & Document Processing Tool** · Vision API Integration
-Desktop automation tool for extracting text from images and PDFs with intelligent format selection.
+### **AI-Retail-Platform** · End-to-End Smart Retail & Customer Intelligence &nbsp; [🔗 Repository](https://github.com/SuyashSoni10/AI-Retail-Platform)
 
-**Tech Stack:** Groq Vision API · Python · Windows Automation  
-**Features:** Hotkey-driven workflow · Clipboard integration · Automatic document processing
+Integrated platform combining Computer Vision, NLP, and statistical telemetry for automated checkout scanning, customer analytics, and support.
+
+**Tech Stack:** FastAPI · Python · MobileNetV2 (transfer learning) · TF-IDF · Logistic Regression · Streamlit · pytest  
+**Modules:** Face-based loyalty kiosk · CV product checkout scanner · Sentiment analyzer (Positive/Neutral/Negative) · Intent-matching FAQ chatbot · Manager telemetry dashboard
 
 ---
 
-### **BugTriaging-with-AI** · Intelligent Bug Classification
+### **Handy-TextExtractor** · Vision-Powered OCR Utility &nbsp; [🔗 Repository](https://github.com/SuyashSoni10/Handy-TextExtractor)
+
+Lightweight CLI tool that extracts human-readable text from images and PDFs using Llama 3.1 vision via Groq. Tables are reconstructed as Markdown; charts and diagrams are automatically skipped.
+
+**Tech Stack:** Python · Groq API (Llama 3.1 8B) · PyMuPDF · Pillow · python-dotenv  
+**Features:** Batch directory processing · Auto format selection (`.txt` vs `.md`) · PDF page rasterization at 150 DPI · Large image auto-resize to manage API costs
+
+---
+
+### **BugTriaging-with-AI** · Intelligent Bug Classification &nbsp; [🔗 Repository](https://github.com/SuyashSoni10/BugTriaging-with-AI)
 Machine learning system for automated bug classification and software issue triaging.
 
 **Tech Stack:** Python · Machine Learning · Classification Algorithms  
@@ -88,6 +91,18 @@ In Progress:
 
 AI/ML Track: Building Kaggle/hackathon presence, quantifying model metrics, demonstrating end-to-end projects  
 SDE Track: Reframing skill levels, adding impact metrics to internship work, competitive programming ratings
+
+---
+## GitHub Stats
+ 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SuyashSoni10&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="170"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuyashSoni10&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170"/>
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=SuyashSoni10&theme=tokyonight&hide_border=true" height="170"/>
+</p>
 
 ---
 
@@ -208,18 +223,6 @@ Advanced ML: From baseline models to production pipelines
 System design: Understanding end-to-end application architecture  
 Code quality: Design patterns, testing, and maintainability  
 Problem-solving: Breaking down ambiguous requirements into implementable solutions
-
----
-
-## Recent Insights & Technical Articles
-
-I document my learning journey and technical challenges:
-
-- Debugging Oracle connectivity and schema issues in enterprise environments
-- Migrating Android projects from kapt to KSP for better compile times
-- Hyperparameter optimization strategies for gradient boosting
-- Iterative model refinement in computer vision (satellite imagery case study)
-- DSA pattern recognition and when to apply each approach
 
 ---
 
