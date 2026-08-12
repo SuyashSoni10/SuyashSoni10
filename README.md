@@ -24,7 +24,7 @@
 
 ## About Me
 
-I'm a final-year CS undergrad with a passion for building end-to-end ML systems and full-stack applications. Currently balancing advanced machine learning research with backend engineering fundamentals through the Cognizant FSE program. I tackle challenging problems—from computer vision pipelines to efficient database design—and connect ML research to production systems.
+I'm a final-year CS undergrad with a passion for building end-to-end ML systems and full-stack applications. Currently balancing advanced machine learning research with backend engineering fundamentals and practical production projects.
 
 **Focus Areas:**
 - Machine Learning & Computer Vision – Deep learning model design, optimization, and deployment
@@ -40,7 +40,7 @@ I'm a final-year CS undergrad with a passion for building end-to-end ML systems 
 ### **Visual Memory Lane** · Full-Stack Passive Desktop Monitoring System &nbsp; [🔗 Repository](https://github.com/SuyashSoni10/VisualMemoryLane)
 Production-grade ML application for capturing, indexing, and searching desktop activity using conversational AI.
 
-**Tech Stack:** YOLO11 · DeepSORT · CLIP · FastAPI · PostgreSQL · React Native · Groq LLaMA  
+**Tech Stack:** YOLOv8 · DeepSORT · CLIP · FastAPI · PostgreSQL · React Native · Llama 3 (Groq)
 **Highlights:** Multi-camera support · Vector embeddings · Conversational memory interface · End-to-end ML pipeline
 
 ---
@@ -48,17 +48,17 @@ Production-grade ML application for capturing, indexing, and searching desktop a
 ### **ISRO Road Network Segmentation** · Satellite Imagery Analysis &nbsp; [🔗 Repository](https://github.com/SuyashSoni10/Road-Network-Extraction)
 Semantic segmentation of road networks from Sentinel-2 satellite imagery through iterative model refinement.
 
-**Tech Stack:** UNet++ (scSE) · PyTorch · CUDA · Kaggle  
+**Tech Stack:** UNet++ (scSE) · PyTorch · CUDA · Kaggle
 **Results:** Improved F1 score from **0.420 → 0.524** and IoU to **0.356** · Resolved CUDA OOM issues through GPU memory optimization
 
 ---
 
 ### **Mail-Master** · AI-Powered Email Triage & Calendar Intelligence &nbsp; [🔗 Repository](https://github.com/SuyashSoni10/Mail-Master)
 
-Android application that connects to multiple Gmail accounts, scans unread emails in the background via the Gmail API, and uses an LLM to extract action items, deadlines, and urgency levels so you never miss a milestone.
+Android application that connects to multiple Gmail accounts, scans unread emails in the background via the Gmail API, and uses an LLM to extract action items, deadlines, and urgency levels so you can quickly triage and act on important messages.
 
-**Tech Stack:** Kotlin · Jetpack Compose (Material 3) · Room · WorkManager · Groq Cloud (Llama 3.3 70B) · Gmail API · OAuth 2.0  
-**Features:** Multi-account monitoring · Urgency-based notifications (HIGH/MEDIUM/LOW channels) · AI-extracted checklists & 60-word summaries · 7-day handled event auto-cleanup · Glassmorphic dynamic theme engine
+**Tech Stack:** Kotlin · Jetpack Compose (Material 3) · Room · WorkManager · Llama 3 (Groq Cloud, 70B) · Gmail API · OAuth 2.0
+**Features:** Multi-account monitoring · Urgency-based notifications (HIGH/MEDIUM/LOW channels) · AI-extracted checklists & 60-word summaries · 7-day handled event auto-cleanup · Glassmorphic UI
 
 ---
 
@@ -66,16 +66,16 @@ Android application that connects to multiple Gmail accounts, scans unread email
 
 Integrated platform combining Computer Vision, NLP, and statistical telemetry for automated checkout scanning, customer analytics, and support.
 
-**Tech Stack:** FastAPI · Python · MobileNetV2 (transfer learning) · TF-IDF · Logistic Regression · Streamlit · pytest  
+**Tech Stack:** FastAPI · Python · MobileNetV2 (transfer learning) · TF-IDF · Logistic Regression · Streamlit · pytest
 **Modules:** Face-based loyalty kiosk · CV product checkout scanner · Sentiment analyzer (Positive/Neutral/Negative) · Intent-matching FAQ chatbot · Manager telemetry dashboard
 
 ---
 
 ### **Handy-TextExtractor** · Vision-Powered OCR Utility &nbsp; [🔗 Repository](https://github.com/SuyashSoni10/Handy-TextExtractor)
 
-Lightweight CLI tool that extracts human-readable text from images and PDFs using Llama 3.1 vision via Groq. Tables are reconstructed as Markdown; charts and diagrams are automatically skipped.
+Lightweight CLI tool that extracts human-readable text from images and PDFs using Llama 3 vision via Groq. Tables are reconstructed as Markdown; charts and diagrams are automatically skipped.
 
-**Tech Stack:** Python · Groq API (Llama 3.1 8B) · PyMuPDF · Pillow · python-dotenv  
+**Tech Stack:** Python · Groq API (Llama 3) · PyMuPDF · Pillow · python-dotenv
 **Features:** Batch directory processing · Auto format selection (`.txt` vs `.md`) · PDF page rasterization at 150 DPI · Large image auto-resize to manage API costs
 
 ---
@@ -83,7 +83,7 @@ Lightweight CLI tool that extracts human-readable text from images and PDFs usin
 ### **BugTriaging-with-AI** · Intelligent Bug Classification &nbsp; [🔗 Repository](https://github.com/SuyashSoni10/BugTriaging-with-AI)
 Machine learning system for automated bug classification and software issue triaging.
 
-**Tech Stack:** Python · Machine Learning · Classification Algorithms  
+**Tech Stack:** Python · Machine Learning · Classification Algorithms
 **Impact:** Reduces manual triage effort by automatically categorizing software bugs
 
 ---
@@ -147,21 +147,19 @@ SDE Track: Reframing skill levels, adding impact metrics to internship work, com
 ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 
 ### Computer Vision
-![YOLO11](https://img.shields.io/badge/YOLO11-111111?style=for-the-badge)
-![YOLOS](https://img.shields.io/badge/YOLOS-0F62FE?style=for-the-badge)
-![YOLO--World](https://img.shields.io/badge/YOLO--World-7B42F6?style=for-the-badge)
+![YOLO](https://img.shields.io/badge/YOLO-Ultralytics-111111?style=for-the-badge)
 ![DeepSORT](https://img.shields.io/badge/DeepSORT-009688?style=for-the-badge)
 ![CLIP](https://img.shields.io/badge/CLIP-FF6B6B?style=for-the-badge)
 ![EfficientNet](https://img.shields.io/badge/EfficientNet-2E8B57?style=for-the-badge)
-![DeepLabV3+-FF9800](https://img.shields.io/badge/DeepLabV3+-FF9800?style=for-the-badge)
+![DeepLabV3+](https://img.shields.io/badge/DeepLabV3%2B-FF9800?style=for-the-badge)
 
 ### LLM & Generative AI
 ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge)
 ![Groq](https://img.shields.io/badge/Groq-000000?style=for-the-badge&logo=groq&logoColor=white)
-![LLAMA 3.1](https://img.shields.io/badge/Llama_3.1-0467DF?style=for-the-badge)
+![Llama 3](https://img.shields.io/badge/Llama_3-0467DF?style=for-the-badge)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-6E57E0?style=for-the-badge)
-![LLM APIs](https://img.shields.io/badge/LLM_API_Integration-4B8BBE?style=for-the-badge)
+![LLM API Integration](https://img.shields.io/badge/LLM_API_Integration-4B8BBE?style=for-the-badge)
 
 ### Backend & Databases
 
