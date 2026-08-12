@@ -1,7 +1,24 @@
-# Hi, I'm Suyash Soni
+<h1 align="center">Hi, I'm Suyash Soni</h1>
 
-**Computer Science Undergraduate** | **AI/ML Specialization** @ VIT Bhopal University  
-**Full Stack Engineer (FSE) Trainee** @ Cognizant | ML/CV Specialist | Competitive Programmer
+<p align="center">
+  <b>Computer Science Undergraduate</b> | <b>AI/ML Specialization</b> @ VIT Bhopal University <br/>
+  <b>Full Stack Engineer (FSE) Trainee</b> @ Cognizant | ML/CV Specialist | Competitive Programmer
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/suyash-soni-40a69b289/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.kaggle.com/sonisuyash">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+  </a>
+  <a href="https://x.com/SuyashSoni99003">
+    <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white"/>
+  </a>
+  <a href="mailto:suyashsoni3200510@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
@@ -94,16 +111,20 @@ SDE Track: Reframing skill levels, adding impact metrics to internship work, com
 
 ---
 ## GitHub Stats
- 
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SuyashSoni10&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="170"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuyashSoni10&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170"/>
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=SuyashSoni10&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SuyashSoni10&theme=github" width="100%"/>
 </p>
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SuyashSoni10&theme=github" height="170"/>
+  &nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SuyashSoni10&theme=github" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=SuyashSoni10&theme=github-dark&hide_border=true" height="170"/>
+</p>
 ---
 
 ## Tech Stack
