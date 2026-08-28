@@ -46,30 +46,30 @@ Production-grade ML application for capturing, indexing, and searching desktop a
 
 ---
 
-### **ISRO Road Network Segmentation** · Satellite Imagery Analysis &nbsp; [🔗 Repository](https://github.com/SuyashSoni10/Road-Network-Extraction)
-Semantic segmentation of road networks from Sentinel-2 satellite imagery through iterative model refinement.
-
-**Tech Stack:** ```UNet++ (scSE) · PyTorch · CUDA · Kaggle```
-
-**Results:** ```F1 score improved from 0.420 → 0.524 (+24.7%) · IoU: 0.356 (baseline: 0.28) · Ranked top 15% on Kaggle · CUDA OOM optimization```
-
----
-
-### **Voice Command Shopper** · Voice-Activated Shopping Assistant &nbsp; [🔗 Repository](https://github.com/SuyashSoni10/voice-command-shopper)
-Android application enabling hands-free shopping using natural voice commands — add/remove items, search products, and manage cart with on-device speech recognition and lightweight NLU.
-
-**Tech Stack:** ```Kotlin · Android SpeechRecognizer · ML Kit · Firebase Realtime Database · Retrofit```
-
-**Features:** ```Voice-driven product search & add-to-cart · Offline command caching · Persistent cart sync across devices · Intent parsing & slot filling · Accessibility-focused UI```
-
----
-
 ### **Mail-Master** · AI-Powered Email Triage & Calendar Intelligence &nbsp; [🔗 Repository](https://github.com/SuyashSoni10/Mail-Master)
 Android application that connects to multiple Gmail accounts, scans unread emails in the background via the Gmail API, and uses an LLM to extract action items, deadlines, and urgency levels.
 
 **Tech Stack:** ```Kotlin · Jetpack Compose (Material 3) · Room · WorkManager · Llama 3 (Groq Cloud, 70B) · Gmail API · OAuth 2.0```
 
 **Features:** ```Multi-account monitoring · Urgency-based notifications (HIGH/MEDIUM/LOW) · AI-extracted checklists & 60-word summaries · 7-day auto-cleanup · Glassmorphic UI```
+
+---
+
+### **Voice Command Shopper** · Voice-Activated Shopping Assistant &nbsp; [🔗 Repository](https://github.com/SuyashSoni10/voice-command-shopper)
+Android application enabling hands-free shopping using natural voice commands — add/remove items, search products, and manage cart with on-device speech recognition and lightweight NLU.
+
+**Tech Stack:** ```Python · React (Vite) · TypeScript · FastAPI · Web Speech API · TheFuzz (Levenshtein Matching) · Tailwind CSS · CSS3```
+
+**Features:** ```Zero-latency local NLU engine · Multi-intent voice parsing · Fuzzy catalog auto-correction · Automated unit conversions & merging · Hybrid voice & UI cart controls```
+
+---
+
+### **ISRO Road Network Segmentation** · Satellite Imagery Analysis &nbsp; [🔗 Repository](https://github.com/SuyashSoni10/Road-Network-Extraction)
+Semantic segmentation of road networks from Sentinel-2 satellite imagery through iterative model refinement.
+
+**Tech Stack:** ```UNet++ (scSE) · PyTorch · CUDA · Kaggle```
+
+**Results:** ```F1 score improved from 0.420 → 0.524 (+24.7%) · IoU: 0.356 (baseline: 0.28) · Ranked top 15% on Kaggle · CUDA OOM optimization```
 
 ---
 
