@@ -24,7 +24,7 @@
 
 ## About Me
 
-I'm a final-year CS undergrad with a passion for building end-to-end ML systems and full-stack applications. Currently balancing advanced machine learning research with backend engineering fundamentals and practical production projects.
+I'm a final-year CS undergrad with a passion for building end-to-end ML systems and full-stack applications. Currently balancing advanced machine learning research with backend engineering fundame[...]
 
 **Focus Areas:**
 - Machine Learning & Computer Vision – Deep learning model design, optimization, and deployment
@@ -55,6 +55,15 @@ Semantic segmentation of road networks from Sentinel-2 satellite imagery through
 
 ---
 
+### **Voice Command Shopper** · Voice-Activated Shopping Assistant &nbsp; [🔗 Repository](https://github.com/SuyashSoni10/voice-command-shopper)
+Android application enabling hands-free shopping using natural voice commands — add/remove items, search products, and manage cart with on-device speech recognition and lightweight NLU.
+
+**Tech Stack:** ```Kotlin · Android SpeechRecognizer · ML Kit · Firebase Realtime Database · Retrofit```
+
+**Features:** ```Voice-driven product search & add-to-cart · Offline command caching · Persistent cart sync across devices · Intent parsing & slot filling · Accessibility-focused UI```
+
+---
+
 ### **Mail-Master** · AI-Powered Email Triage & Calendar Intelligence &nbsp; [🔗 Repository](https://github.com/SuyashSoni10/Mail-Master)
 Android application that connects to multiple Gmail accounts, scans unread emails in the background via the Gmail API, and uses an LLM to extract action items, deadlines, and urgency levels.
 
@@ -69,7 +78,7 @@ Integrated platform combining Computer Vision, NLP, and statistical telemetry fo
 
 **Tech Stack:** ```FastAPI · Python · MobileNetV2 · TF-IDF · Logistic Regression · Streamlit · pytest```
 
-**Features:** ```Face-based loyalty kiosk (94% accuracy) · CV product checkout scanner (92% accuracy) · Sentiment analyzer (Pos/Neutral/Neg) · Intent-matching FAQ chatbot · Real-time telemetry dashboard · 10,000+ product SKUs```
+**Features:** ```Face-based loyalty kiosk (94% accuracy) · CV product checkout scanner (92% accuracy) · Sentiment analyzer (Pos/Neutral/Neg) · Intent-matching FAQ chatbot · Real-time telemetry[...]
 
 ---
 
