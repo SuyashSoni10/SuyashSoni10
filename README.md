@@ -194,6 +194,8 @@ SDE Track: Reframing skill levels, adding impact metrics to internship work, com
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
+
+
 ### Data Science & Analytics
 
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
@@ -229,9 +231,9 @@ SDE Track: Reframing skill levels, adding impact metrics to internship work, com
 
 ## GitHub Highlights
 
-- 22 repositories spanning ML research, backend systems, mobile apps, and training exercises
+- 28 repositories spanning ML research, backend systems, mobile apps, and training exercises
 - Achievements: Quickdraw, Pair Extraordinaire, Pull Shark (x2)
-- 4 followers | 11 following
+- 6 followers | 15 following
 
 ---
 
@@ -266,12 +268,13 @@ I'm always excited to work on:
 - Open Source – Contributing to tools and libraries in the ML/data science space
 - Technical Discussions – Exploring system design, architecture, and best practices
 
-Reach out for collaboration on ML projects, hackathons, technical mentoring in backend development or ML, freelance work in Python/Java, or feedback on project design and career direction.
+**Reach out for collaboration on ML projects, hackathons, technical mentoring in backend development or ML, freelance work in Python/Java, or feedback on project design and career direction.**
 
 ---
 
 ## Notable Highlights
 
+- Built a privacy-first voice shopping list app with a local Python NLU engine, eliminating cloud LLM dependency for zero-latency parsing
 - Diagnosed a Gradle/Kotlin compatibility issue (3+ hours debugging) and learned the importance of reading changelogs
 - Improved satellite imagery segmentation F1 score by 25% through systematic experimentation and attention mechanisms
 - Built a full ML monitoring system (Visual Memory Lane) in 4 weeks while balancing university coursework
@@ -320,4 +323,4 @@ Code Review       ███░░░░░░░░░░░░░░░░░  
 
 Made with effort by Suyash Soni | Always learning, always building.
 
-Last updated: July 2026 | [View my work](https://github.com/SuyashSoni10)
+Last updated: August 2026 | [View my work](https://github.com/SuyashSoni10)
