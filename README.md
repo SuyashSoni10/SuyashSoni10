@@ -122,20 +122,23 @@ SDE Track: Reframing skill levels, adding impact metrics to internship work, com
 
 ---
 ## GitHub Stats
-
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SuyashSoni10&theme=github" width="100%"/>
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SuyashSoni10&theme=github" height="170"/>
-  &nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SuyashSoni10&theme=github" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=SuyashSoni10&theme=github&hide_border=true" height="170"/>
-</p>
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="30%">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SuyashSoni10&theme=github" width="100%"/>
+    </td>
+    <td align="center" width="30%">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SuyashSoni10&theme=github" width="100%"/>
+    </td>
+    <td align="center" width="38%">
+      <img src="https://streak-stats.demolab.com/?user=SuyashSoni10&theme=github&hide_border=true" width="100%"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -279,34 +282,6 @@ I'm always excited to work on:
 - Improved satellite imagery segmentation F1 score by 25% through systematic experimentation and attention mechanisms
 - Built a full ML monitoring system (Visual Memory Lane) in 4 weeks while balancing university coursework
 - Passionate about writing clean, testable code with proper abstractions and design patterns
-
----
-
-## Language & Focus Distribution
-
-```
-Languages Used
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-Python            ███████████████████░ 65% (ML/CV, FastAPI)
-Java              ███████████░░░░░░░░░ 30% (Backend, FSE)
-SQL               ███░░░░░░░░░░░░░░░░░ 12% (Oracle, PostgreSQL)
-Kotlin            ██░░░░░░░░░░░░░░░░░░  8% (Android)
-HTML/CSS/JS       ██░░░░░░░░░░░░░░░░░░  7% (Web UI)
-
-Current Focus Areas
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-ML/CV Research    ██████████░░░░░░░░░░ 45%
-Backend Systems   █████████░░░░░░░░░░░ 35%
-DSA & Algorithms  ████░░░░░░░░░░░░░░░░ 15%
-Mobile Dev        ███░░░░░░░░░░░░░░░░░  5%
-
-GitHub Contributions (Past 12 Months)
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-Commits           ████████████░░░░░░░░ 280+ commits
-Repositories      ██████████░░░░░░░░░░ 22 repos
-Pull Requests     █████░░░░░░░░░░░░░░░  18+ PRs
-Code Review       ███░░░░░░░░░░░░░░░░░  40+ reviews
-```
 
 ---
 
