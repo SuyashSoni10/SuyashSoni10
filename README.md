@@ -24,7 +24,7 @@
 
 ## About Me
 
-I'm a final-year CS undergrad with a passion for building end-to-end ML systems and full-stack applications. Currently balancing advanced machine learning research with backend engineering fundame[...]
+I'm a final-year CS undergrad with a passion for building end-to-end ML systems and full-stack applications. Currently balancing advanced machine learning research with backend engineering fundametals.
 
 **Focus Areas:**
 - Machine Learning & Computer Vision – Deep learning model design, optimization, and deployment
