@@ -24,7 +24,7 @@
 
 ## About Me
 
-Final-year CS undergrad focused on ML/CV systems and backend engineering — Python/FastAPI, Java, Kotlin/Android, and cloud-deployed ML pipelines.
+What matters to me in software and AI isn't how impressive something sounds, but whether it actually holds up when it's used for real. That's what keeps pulling me toward the messier side of machine learning, where a model has to work with bad data, no internet, and users who don't care how clever the architecture is. Building an offline billing app for shopkeepers, a voice assistant that understands you without calling out to a cloud LLM, or trying to make sense of satellite images that refuse to segment cleanly, these are the problems that keep me interested, mostly because they don't let you fake your way through. There's still a lot I'm learning, and I'd rather be upfront about that than pretend otherwise, but what I bring is persistence: finishing what gets started and actually understanding why something broke before calling it fixed. Long term, that's the direction I want to grow in, building the backend systems that make AI something people can rely on, not just something that works in a demo.
 
 ---
 
