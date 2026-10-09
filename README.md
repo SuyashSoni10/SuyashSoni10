@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Suyash Soni</h1>
 
 <p align="center">
-  <b>Computer Science Undergraduate</b> | <b>AI/ML Specialization</b> @ VIT Bhopal University <br/>
-  <b>Full Stack Engineer (FSE) Trainee</b> @ Cognizant
+  <b>Computer Science Undergraduate</b> | <b>AI/ML Specialization</b> <br/>
+  
 </p>
 
 <p align="center">
