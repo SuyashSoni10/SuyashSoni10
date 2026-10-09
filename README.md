@@ -189,4 +189,4 @@ Machine learning system for automated bug classification and software issue tria
 
 ---
 
-<p align="center"><i>Last updated: August 2026</i></p>
+<p align="center"><i>Last updated: October 2026</i></p>
