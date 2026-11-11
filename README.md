@@ -39,7 +39,7 @@ Production-grade ML application for capturing, indexing, and searching desktop a
 
 ---
 
-### **Mail-Master** · AI-Powered Email Triage & Calendar Intelligence &nbsp; [🔗 Repository](https://github.com/SuyashSoni10/Mail-Master)
+### **Mail-Master** · AI-Powered Email Triage & Calendar Intelligence (private) &nbsp; [🔗 Repository](https://github.com/SuyashSoni10/Mail-Master)
 Android application that connects to multiple Gmail accounts, scans unread emails in the background via the Gmail API, and uses an LLM to extract action items, deadlines, and urgency levels.
 
 **Tech Stack:** ```Kotlin · Jetpack Compose (Material 3) · Room · WorkManager · Llama 3 (Groq Cloud, 70B) · Gmail API · OAuth 2.0```
@@ -49,7 +49,7 @@ Android application that connects to multiple Gmail accounts, scans unread email
 ---
 
 ### **Voice Command Shopper** · Voice-Activated Shopping Assistant &nbsp; [🔗 Repository](https://github.com/SuyashSoni10/voice-command-shopper)
-Android application enabling hands-free shopping using natural voice commands — add/remove items, search products, and manage cart with on-device speech recognition and lightweight NLU.
+Android application enabling hands-free shopping using natural voice commands — add/remove items, search products, and manage the cart with on-device speech recognition and lightweight NLU.
 
 **Tech Stack:** ```Python · React (Vite) · TypeScript · FastAPI · Web Speech API · TheFuzz (Levenshtein Matching) · Tailwind CSS · CSS3```
 
@@ -189,4 +189,4 @@ Machine learning system for automated bug classification and software issue tria
 
 ---
 
-<p align="center"><i>Last updated: October 2026</i></p>
+<p align="center"><i>Last updated: November 2026</i></p>
